@@ -1,0 +1,2 @@
+# ImgurFast
+Fully JS handled
